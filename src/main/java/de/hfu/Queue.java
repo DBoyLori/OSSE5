@@ -12,6 +12,7 @@ public class Queue {
 	   queue = new int[max];
 	   head = 0;
 	   tail = -1;
+	   
    }
 
    public void enqueue(int a){
